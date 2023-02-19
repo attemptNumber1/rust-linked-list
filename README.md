@@ -1,1 +1,3 @@
-# rust-linked-list
+# Rust Linked List
+
+Gonna try to learn rust by building a linked list. Lets see how it goes...
